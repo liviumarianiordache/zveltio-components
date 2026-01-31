@@ -1,0 +1,10 @@
+{
+  "name": "Stat",
+  "category": "common",
+  "description": "Stat - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}

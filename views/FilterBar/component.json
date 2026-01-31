@@ -1,0 +1,10 @@
+{
+  "name": "FilterBar",
+  "category": "views",
+  "description": "FilterBar - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}

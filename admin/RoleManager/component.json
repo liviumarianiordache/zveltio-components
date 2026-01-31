@@ -1,0 +1,17 @@
+{
+  "name": "RoleManager",
+  "category": "admin",
+  "description": "RBAC role management with hierarchy support",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {
+    "roles": "Role[] - List of roles",
+    "onSave": "(role: Role) => Promise<void> - Save callback",
+    "onDelete": "(roleId: string) => Promise<void> - Delete callback"
+  },
+  "types": {
+    "Role": "{id: string; name: string; description: string; allowed_for: 'INTERNAL' | 'PARTNER'; parent_role_id?: string | null}"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "PendingIndicator",
+  "category": "common",
+  "description": "PendingIndicator - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}

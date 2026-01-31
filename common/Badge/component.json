@@ -1,0 +1,10 @@
+{
+  "name": "Badge",
+  "category": "common",
+  "description": "Badge - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}

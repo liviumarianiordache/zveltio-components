@@ -1,0 +1,17 @@
+{
+  "name": "SearchableSelect",
+  "category": "common",
+  "description": "Dropdown with client or server-side search",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {
+    "value": "$bindable - Selected value",
+    "options": "Array<{value, label}> - Static options",
+    "onSearch": "(term: string) => Promise<Array<{value, label}>> - Async search callback",
+    "placeholder": "string",
+    "disabled": "boolean",
+    "label": "string"
+  }
+}

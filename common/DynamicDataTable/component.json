@@ -1,0 +1,14 @@
+{
+  "name": "DynamicDataTable",
+  "category": "common",
+  "description": "Universal data table with sorting and row actions",
+  "dependencies": {"packages": [], "components": []},
+  "props": {
+    "columns": "Column[] - {key, label, sortable?, format?}",
+    "data": "any[]",
+    "onRowClick": "(row: any) => void",
+    "onSort": "(column: string, direction: 'asc'|'desc') => void",
+    "loading": "boolean",
+    "emptyMessage": "string"
+  }
+}

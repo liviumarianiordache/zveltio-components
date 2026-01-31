@@ -1,0 +1,15 @@
+{
+  "name": "Alert",
+  "category": "common",
+  "description": "Alert - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {
+    "type": "string",
+    "message": "string",
+    "dismissible": "boolean",
+    "onDismiss": "function"
+  }
+}

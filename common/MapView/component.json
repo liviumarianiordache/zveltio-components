@@ -1,0 +1,10 @@
+{
+  "name": "MapView",
+  "category": "common",
+  "description": "MapView - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}

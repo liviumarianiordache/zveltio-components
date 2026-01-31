@@ -1,0 +1,10 @@
+{
+  "name": "AuditDiff",
+  "category": "audit",
+  "description": "AuditDiff - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}

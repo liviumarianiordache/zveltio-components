@@ -1,0 +1,13 @@
+{
+  "name": "ColumnList",
+  "category": "admin",
+  "description": "Editable list of table columns",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {
+    "columns": "$bindable<Column[]>",
+    "dataTypes": "string[] - Available data types"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "FormField",
+  "category": "forms",
+  "description": "FormField - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {
+    "key": "string",
+    "label": "string",
+    "type": "string",
+    "value": "$bindable<any>",
+    "options": "Array",
+    "error": "string"
+  }
+}

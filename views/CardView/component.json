@@ -1,0 +1,10 @@
+{
+  "name": "CardView",
+  "category": "views",
+  "description": "CardView - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}

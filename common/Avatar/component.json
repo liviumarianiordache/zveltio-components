@@ -1,0 +1,10 @@
+{
+  "name": "Avatar",
+  "category": "common",
+  "description": "Avatar - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}

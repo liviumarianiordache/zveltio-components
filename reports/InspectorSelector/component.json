@@ -1,0 +1,10 @@
+{
+  "name": "InspectorSelector",
+  "category": "reports",
+  "description": "InspectorSelector - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}

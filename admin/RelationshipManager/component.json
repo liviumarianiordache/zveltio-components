@@ -1,0 +1,10 @@
+{
+  "name": "RelationshipManager",
+  "category": "admin",
+  "description": "Foreign key and constraint viewer",
+  "dependencies": {"packages": [], "components": []},
+  "props": {
+    "tableName": "string",
+    "constraints": "Constraint[]"
+  }
+}

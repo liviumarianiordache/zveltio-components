@@ -1,0 +1,10 @@
+{
+  "name": "Divider",
+  "category": "common",
+  "description": "Divider - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Input",
+  "category": "common",
+  "description": "Input - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {
+    "value": "$bindable<string>",
+    "type": "string",
+    "placeholder": "string",
+    "label": "string",
+    "error": "string"
+  }
+}

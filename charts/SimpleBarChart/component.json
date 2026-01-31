@@ -1,0 +1,14 @@
+{
+  "name": "SimpleBarChart",
+  "category": "charts",
+  "description": "SimpleBarChart - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {
+    "data": "Array",
+    "xKey": "string",
+    "yKey": "string"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "TeamChat",
+  "category": "common",
+  "description": "TeamChat - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}

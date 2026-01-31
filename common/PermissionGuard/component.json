@@ -1,0 +1,21 @@
+{
+  "name": "PermissionGuard",
+  "category": "common",
+  "description": "Standalone permission gatekeeper compatible with any auth system (Casbin, RBAC, etc.)",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {
+    "canAccess": "boolean - Permission check result from parent",
+    "isLoading": "boolean - Show loading state",
+    "showFallback": "boolean - Display fallback UI on denial",
+    "errorMessage": "string - Custom error message",
+    "children": "Snippet - Protected content",
+    "fallback": "Snippet? - Custom fallback UI"
+  },
+  "examples": [
+    "basic-usage.svelte",
+    "with-casbin.svelte"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "TableDesigner",
+  "category": "admin",
+  "description": "TableDesigner - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {
+    "tableName": "$bindable<string>",
+    "columns": "$bindable<Array>",
+    "onSave": "function"
+  }
+}

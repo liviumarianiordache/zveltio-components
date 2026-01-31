@@ -1,0 +1,16 @@
+{
+  "name": "Button",
+  "category": "common",
+  "description": "Button - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {
+    "variant": "string",
+    "size": "string",
+    "disabled": "boolean",
+    "loading": "boolean",
+    "onclick": "function"
+  }
+}

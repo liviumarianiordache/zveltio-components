@@ -1,0 +1,11 @@
+{
+  "name": "Settings",
+  "category": "pages",
+  "description": "User preferences management page (theme, navbar position, navigation)",
+  "dependencies": {"packages": [], "components": []},
+  "props": {
+    "preferences": "$bindable<{theme?, navbar_position?, nav_collapsed?}>",
+    "onSave": "(prefs: Preferences) => Promise<void>",
+    "saving": "boolean"
+  }
+}

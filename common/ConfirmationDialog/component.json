@@ -1,0 +1,10 @@
+{
+  "name": "ConfirmationDialog",
+  "category": "common",
+  "description": "ConfirmationDialog - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}

@@ -1,0 +1,20 @@
+{
+  "name": "SmartNavbar",
+  "category": "navigation",
+  "description": "Intelligent navbar with dynamic positioning (top/bottom/left/right), user menu, and theme switcher",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {
+    "position": "'top'|'bottom'|'left'|'right' - Navbar position",
+    "user": "{name?, email?, avatar?} - Current user",
+    "navItems": "Array<{label, href, icon?}> - Navigation items",
+    "logo": "Snippet - Custom logo",
+    "currentTheme": "string - Current theme",
+    "onThemeToggle": "(theme: string) => void - Theme change callback",
+    "onLogout": "(() => void) | null - Logout callback",
+    "onPositionChange": "((position: string) => Promise<void>) | null - Position change callback",
+    "isDraggable": "boolean - Enable position menu"
+  }
+}

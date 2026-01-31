@@ -1,0 +1,10 @@
+{
+  "name": "TablePreview",
+  "category": "admin",
+  "description": "TablePreview - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}

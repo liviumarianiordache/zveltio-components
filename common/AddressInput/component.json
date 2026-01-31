@@ -1,0 +1,12 @@
+{
+  "name": "AddressInput",
+  "category": "common",
+  "description": "Address input with geocoding search",
+  "dependencies": {"packages": [], "components": []},
+  "props": {
+    "value": "$bindable<Address>",
+    "onSearch": "(query: string) => Promise<Address[]>",
+    "label": "string",
+    "disabled": "boolean"
+  }
+}

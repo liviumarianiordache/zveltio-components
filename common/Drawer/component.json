@@ -1,0 +1,10 @@
+{
+  "name": "Drawer",
+  "category": "common",
+  "description": "Drawer - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}

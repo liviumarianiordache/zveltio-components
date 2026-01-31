@@ -1,0 +1,15 @@
+{
+  "name": "NavLink",
+  "category": "navigation",
+  "description": "NavLink - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {
+    "href": "string",
+    "label": "string",
+    "icon": "Component",
+    "active": "boolean"
+  }
+}

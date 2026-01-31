@@ -1,0 +1,12 @@
+{
+  "name": "Loading",
+  "category": "common",
+  "description": "Loading - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {
+    "message": "string"
+  }
+}

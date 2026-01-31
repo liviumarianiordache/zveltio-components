@@ -1,0 +1,14 @@
+{
+  "name": "Modal",
+  "category": "common",
+  "description": "Modal - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {
+    "open": "$bindable<boolean>",
+    "title": "string",
+    "onClose": "function"
+  }
+}

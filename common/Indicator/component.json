@@ -1,0 +1,10 @@
+{
+  "name": "Indicator",
+  "category": "common",
+  "description": "Indicator - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}

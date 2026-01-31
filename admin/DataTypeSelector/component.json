@@ -1,0 +1,10 @@
+{
+  "name": "DataTypeSelector",
+  "category": "admin",
+  "description": "DataTypeSelector - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}

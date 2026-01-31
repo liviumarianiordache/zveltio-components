@@ -1,0 +1,21 @@
+{
+  "name": "AttachmentManager",
+  "category": "attachments",
+  "description": "File upload and management with drag & drop",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {
+    "files": "FileItem[] - List of uploaded files",
+    "onUpload": "(files: FileList) => Promise<void> - Upload callback",
+    "onDelete": "(fileId: string) => Promise<void> - Delete callback",
+    "onDownload": "((fileId: string) => void) | null - Download callback",
+    "acceptedTypes": "string - MIME types (e.g., 'image/*')",
+    "readOnly": "boolean - Disable uploads/deletes",
+    "maxFiles": "number - Maximum file count"
+  },
+  "types": {
+    "FileItem": "{id: string; name: string; size: number; type: string; url?: string; created_at: string}"
+  }
+}

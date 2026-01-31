@@ -1,0 +1,13 @@
+{
+  "name": "ListView",
+  "category": "views",
+  "description": "ListView - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {
+    "items": "Array",
+    "onRowClick": "function"
+  }
+}

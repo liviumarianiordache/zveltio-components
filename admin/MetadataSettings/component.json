@@ -1,0 +1,9 @@
+{
+  "name": "MetadataSettings",
+  "category": "admin",
+  "description": "Table metadata editor (display name, menu group, audit logging)",
+  "dependencies": {"packages": [], "components": []},
+  "props": {
+    "metadata": "$bindable<Metadata> - {displayName?, menuGroup?, isLoggable?, icon?}"
+  }
+}

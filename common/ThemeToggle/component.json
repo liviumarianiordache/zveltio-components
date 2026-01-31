@@ -1,0 +1,10 @@
+{
+  "name": "ThemeToggle",
+  "category": "common",
+  "description": "ThemeToggle - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}

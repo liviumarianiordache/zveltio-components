@@ -1,0 +1,13 @@
+{
+  "name": "Card",
+  "category": "common",
+  "description": "Card - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {
+    "title": "string",
+    "actions": "Snippet | null"
+  }
+}

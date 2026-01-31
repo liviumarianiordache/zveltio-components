@@ -1,0 +1,10 @@
+{
+  "name": "TrustBadge",
+  "category": "common",
+  "description": "TrustBadge - Svelte 5 component",
+  "dependencies": {
+    "packages": [],
+    "components": []
+  },
+  "props": {}
+}
